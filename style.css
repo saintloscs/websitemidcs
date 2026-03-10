@@ -1,0 +1,102 @@
+body{
+
+background-color: #EFE9E3;
+
+}
+
+.head{ 
+ font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-size: 40px;
+  font-style: normal;
+  text-align: center;
+  color: #4B2E2B; 
+}
+
+hr{
+  border: 1px dashed #4B2E2B;
+}
+
+h2{ 
+  color: #C9B59C;
+  text-shadow: 2px #4B2E2B;
+ font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  text-align: center;
+  size: 30px;
+  font-style: normal;
+}
+
+.about{ 
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  size: 20px;
+  font-style: normal;
+ color: #6E5034;
+ text-align: justify;
+
+}
+
+
+ ul{
+  background-color:#4B2E2B;
+  padding: 20px;
+  width: 300px;
+  margin: 40px auto;
+}
+
+li{
+  background-color: #C9B59C;
+  color: #562F00;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+.pagee{ 
+  font-family: "Cinzel Decorative", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #6E5034;
+  text-align: justify;
+  text-align: center; 
+}
+
+.photo{ 
+
+  text-align: center;
+  overflow-wrap: break-word;
+  background-color: #6E5034;
+
+}
+
+.source{ 
+  background-color: #C9B59C;
+  color: #562F00;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.table1{ 
+   text-align: center;
+  color: #6E5034;
+}
+
+table{ 
+ margin-left: auto;
+ margin-right: auto;
+ width: 1000px;
+}
+
+
+.form{ 
+  text-align: center;
+  color: #6E5034;
+}
+
+
+.forms{ 
+
+  text-align: center;
+}
